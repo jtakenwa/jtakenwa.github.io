@@ -129,3 +129,9 @@ function initMap() {
       ]
     });
 }
+<script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+<script>
+    Weglot.initialize({
+        api_key: 'wg_0ecf41ceacd976dcd9215b2ae518bb442'
+    });
+</script>
